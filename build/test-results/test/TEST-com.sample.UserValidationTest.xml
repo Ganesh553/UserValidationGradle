@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sample.UserValidationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-12-22T13:07:03" hostname="DESKTOP-C7IF6UF" time="0.025">
+  <properties/>
+  <testcase name="givePassword_whenProper_ShouldReturnTrue" classname="com.sample.UserValidationTest" time="0.005"/>
+  <testcase name="giveFirstName_WhenProper_ShouldReturnFalse" classname="com.sample.UserValidationTest" time="0.001"/>
+  <testcase name="giveEmail_WhenValid_ShouldReturnFalse" classname="com.sample.UserValidationTest" time="0.004"/>
+  <testcase name="giveFirstName_WhenProper_ShouldReturnTrue" classname="com.sample.UserValidationTest" time="0.002"/>
+  <testcase name="givePhoneNumber_whenProper_ShouldReturnTrue" classname="com.sample.UserValidationTest" time="0.001"/>
+  <testcase name="giveLastName_WhenProper_ShouldReturnTrue" classname="com.sample.UserValidationTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
